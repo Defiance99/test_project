@@ -1,5 +1,7 @@
 {
-    "name": "https://gitlab.com/new-jira-clone/frontend/auth",
-    "type": "libriray",
-    "version": "1.10.21"
+    "name": "smark/smark",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
 }
